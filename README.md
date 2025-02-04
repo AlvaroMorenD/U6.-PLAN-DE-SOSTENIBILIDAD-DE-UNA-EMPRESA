@@ -21,4 +21,5 @@ Herramientas utilizada: Canva
 ## [Referencias]()
 ## Autores
 - Iván Palma Sierra
+- Iker Cupillar Aliaga
 - Álvaro Moreno Dominguez

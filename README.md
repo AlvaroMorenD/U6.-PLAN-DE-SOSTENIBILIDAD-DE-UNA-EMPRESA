@@ -1,5 +1,5 @@
 # PLAN DE SOSTENIBILIDAD DE UNA EMPRESA
-![]()
+![Plan](img/plan.jpg)
 --- 
 (Imagen Realizada con IA)
 ## Índice

@@ -23,3 +23,7 @@
 - **Reguladores:** Exigen que la empresa cumpla con normativas que fomentan la sostenibilidad.
   
 - **Sociedad:** Presiona para que las empresas actúen de manera ética y responsable.
+
+[SANTANDER](https://www.impulsa-empresa.es/diccionario/stakeholder/)
+
+

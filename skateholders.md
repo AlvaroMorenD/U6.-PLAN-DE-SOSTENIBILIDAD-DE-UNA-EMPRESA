@@ -12,7 +12,7 @@
 
 - **Sociedad:** La conciencia social presiona a las empresas para ser responsables, lo que afecta su reputación.
 
-## Los grupos de interés influyen en las decisiones de sostenibilidad de la empresa de la siguiente manera:
+## Los grupos de interés influyen:
 
 - **Empleados:** Pueden promover cambios sostenibles dentro de la empresa.
 

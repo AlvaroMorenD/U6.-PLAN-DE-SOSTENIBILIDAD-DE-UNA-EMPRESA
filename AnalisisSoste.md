@@ -1,1 +1,2 @@
 
+Un plan de sostenibilidad es básicamente un conjunto de estrategias que las empresas adoptan para ser responsables con el medio ambiente, la sociedad y la economía. Este plan ayuda a que las empresas no solo se enfoquen en generar ganancias, sino que también consideren su impacto en el mundo y en las personas. Es clave para cumplir con las normativas, diferenciarse de la competencia, atraer talento comprometido y hasta reducir costos operativos a largo plazo.

@@ -16,7 +16,7 @@
 
 - **Empleados:** Pueden promover cambios sostenibles dentro de la empresa.
 
-  - **Clientes:** Prefieren productos responsables y esto impulsa a la empresa a ser más sostenible.
+- **Clientes:** Prefieren productos responsables y esto impulsa a la empresa a ser más sostenible.
   
 - **Accionistas:** Quieren que la empresa sea rentable a largo plazo, por lo que apoyan la sostenibilidad.
   

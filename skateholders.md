@@ -1,4 +1,6 @@
-Los principales grupos de interés (stakeholders) son:
+# GRUPOS DE INTERÉS
+
+## Los principales grupos de interés (stakeholders) son:
 
 Empleados: Afectados por condiciones laborales y bienestar. Influyen en la adopción de prácticas sostenibles en la empresa.
 

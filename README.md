@@ -3,11 +3,11 @@
 --- 
 (Imagen Realizada con IA)
 ## Índice
-1. [Introducción al análisis de sostenibilidad]()
+1. [Introducción al análisis de sostenibilidad](AnalisisSoste.md)
 
-2. [Grupos de interés (stakeholders)]()
+2. [Grupos de interés (stakeholders)](skateholders.md)
 
-3. [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)]()
+3. [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](ASGmateriales.md)
 
 
 ## [Conclusiones](conclusiones.md)

@@ -26,3 +26,6 @@
 - **Reciclaje**: 
   - Porcentaje de residuos reciclados respecto al total generado.
   - Cantidad de residuos reciclados por empleado o unidad de producción.
+ 
+  ![Texto alternativo](img/R.jfif)
+

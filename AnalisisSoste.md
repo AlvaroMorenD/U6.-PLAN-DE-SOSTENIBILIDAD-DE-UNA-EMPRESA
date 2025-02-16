@@ -6,3 +6,6 @@ En cuanto a la relación entre sostenibilidad, rentabilidad y reputación empres
 
 [EAEMADRID](https://www.eaemadrid.com/es/actualidad/eventos/la-sostenibilidad-en-la-empresa-por-amor-o-temor?&&&&gclid=9aa2f23a303c158108c6958803f1878a&gclsrc=3p.ds&&utm_content=I91200M7000&c=I91200M7000&msclkid=9aa2f23a303c158108c6958803f1878a&utm_source=bing&utm_medium=cpc&utm_campaign=EAEMAD-DCM-ES_google_WCPMAD-WTPMaster-AO-GENERICA-admachina_sea-prf_prg_WAAGen_always-on_und_und_es_es_ms_ongoing&utm_term=eaemadrid.com)
 
+
+![Texto alternativo](Q.jfif)
+

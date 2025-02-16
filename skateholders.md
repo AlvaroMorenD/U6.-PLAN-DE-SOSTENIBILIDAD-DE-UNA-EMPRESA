@@ -26,4 +26,7 @@
 
 [SANTANDER](https://www.impulsa-empresa.es/diccionario/stakeholder/)
 
+![Texto alternativo](img/U.jpg)
+
+
 
